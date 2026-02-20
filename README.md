@@ -1,6 +1,13 @@
-<h2>Public Google Maps</h2>
+<h1>Public Maps</h1>
 
-https://walteis.github.io/maps/
+<!-- https://walteis.github.io/maps/ -->
+<h2>Old Town North Neighborhood, Saint Joseph MO</h2>
+<div>The Old Town North Neighborhood encompasses four historic districts:  Robidoux Hill, Hall Street, Cathedral Hill, and the Mount Mora cemetery<br />
 
-<h3>St Joseph, MO</h3>
+</div>
+<hr />
+<h3>Map Apps</h3>
 <a href="https://walteis.github.io/maps/OTNNA">Old Town North Neighborhood</a>
+
+<h3>Static Maps</h3>
+<a href="https://walteis.github.io/maps/OTNNA_historic_districts.png">Historic Districts</a>
