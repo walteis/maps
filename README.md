@@ -3,4 +3,4 @@
 https://walteis.github.io/maps/
 
 <h3>St Joseph, MO</h3>
-Old Town North Neighborhood : https://walteis.github.io/maps/OTNNA
+<a href="https://walteis.github.io/maps/OTNNA">Old Town North Neighborhood</a>
