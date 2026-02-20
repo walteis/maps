@@ -2,4 +2,5 @@
 
 https://walteis.github.io/maps/
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1uqpuXbKnGnX_KQypqnNPOq0uhccGlgM&ehbc=2E312F&noprof=1" width="900" height="6000"></iframe>
+<h3>St Joseph, MO</h3>
+Old Town North Neighborhood : https://walteis.github.io/maps/OTNNA
