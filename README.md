@@ -1,3 +1,8 @@
+Welcome to the <a href="https://walteis.wordpress.com">Nerdy Things</a> map annex. Maps are created with QGIS, webmaps are created with QGIS2web as OpenLayers maps.  Plus the occasional Google Map.
+
+At some point I'll also add data layers, likely in KML format.  If that's of interest, just let me know.
+
+
 <h1>Public Maps</h1>
 
 <!-- https://walteis.github.io/maps/ -->
