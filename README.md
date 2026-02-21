@@ -7,7 +7,7 @@
 </div>
 <hr />
 <h3>Map Apps</h3>
-<a href="https://walteis.github.io/maps/OTNNA">Old Town North Neighborhood (Google Maps)</a><br />
+<a href="https://walteis.github.io/maps/OTNNA">Old Town North Neighborhood (Google Maps)</a><br /> 
 <a href="https://walteis.github.io/maps/openlayers/OTNNA/map.index">Old Town North Neighborhood</a>
 
 <h3>Static Maps</h3>
