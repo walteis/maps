@@ -10,4 +10,4 @@
 <a href="https://walteis.github.io/maps/OTNNA">Old Town North Neighborhood</a>
 
 <h3>Static Maps</h3>
-<a href="https://walteis.github.io/maps/OTNNA_historic_districts.png">Historic Districts</a>
+<a href="https://walteis.wordpress.com/wp-content/uploads/2026/02/otnna-historic-neighborhoods.png">Historic Districts</a>
