@@ -1,4 +1,4 @@
-vlayout: page
+layout: page
 title: "Old Town North Neighborhood"
 permalink: /openlayers/OldTownNorth
 
